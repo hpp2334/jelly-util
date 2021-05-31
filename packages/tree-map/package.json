@@ -14,5 +14,9 @@
     "rimraf": "^3.0.2",
     "typedoc": "^0.20.36",
     "typedoc-plugin-markdown": "^3.8.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hpp2334/jelly-util/tree/main/packages/tree-map"
   }
 }

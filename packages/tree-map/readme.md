@@ -46,4 +46,4 @@ npm i @jelly-util/tree-map
 
 ## API
 
-See [docs/README.md](docs/README.md)
+See [docs/README.md](https://github.com/hpp2334/jelly-util/tree/main/packages/tree-map/docs/README.md)
