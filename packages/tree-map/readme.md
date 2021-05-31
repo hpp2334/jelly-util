@@ -35,7 +35,7 @@ root.visit(
 ## Install
 
 ```
-npm i @jelly-util/tree-map
+npm i jelly-util-tree-map
 ```
 
 ## Concept
