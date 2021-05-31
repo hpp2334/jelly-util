@@ -1,5 +1,5 @@
 {
-  "name": "@jelly-util/tree-map",
+  "name": "jelly-util-tree-map",
   "version": "0.0.1",
   "main": "./dist/index.js",
   "license": "MIT",
